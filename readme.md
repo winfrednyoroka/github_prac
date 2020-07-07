@@ -2,6 +2,6 @@ my name is Gatua prof.
 I love what am doing.
 
 ## Research interests
-[] Toxin Research
-[] Parasite Genomics 
-[] Virus Evolution
+1. Toxin Research
+2. Parasite Genomics 
+3. Virus Evolution
