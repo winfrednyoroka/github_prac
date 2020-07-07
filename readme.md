@@ -1,4 +1,4 @@
-my name is Gatua prof.
+My name is Gatua prof.
 I love what am doing.
 
 ## Research interests
